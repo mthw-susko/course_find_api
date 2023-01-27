@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask_Cors==3.0.10
+flask_sqlalchemy==3.0.2
+selenium==4.8.0
+SQLAlchemy==1.4.46
+webdriver_manager==3.8.5
